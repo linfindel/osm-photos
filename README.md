@@ -1,0 +1,1 @@
+This is a GitHub Pages repo to host all of my photos for OSM features. All photos are public domain and can be reused for any purpose. If you wish to contribute photos, open a pull request. Adding photos here will not automatically add them to the map. You will need to set the `image` tag to the hosted url of the photo.
